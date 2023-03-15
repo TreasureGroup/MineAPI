@@ -1,0 +1,6 @@
+name: MineAPI
+version: 1.0.0
+authors:
+  - Slayer
+main: mineapi\MineAPI
+api: [4.0.0]
